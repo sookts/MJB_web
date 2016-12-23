@@ -1,0 +1,214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/soots/Desktop/mjb/sass/mediation.scss",
+		"/Users/soots/Desktop/mjb/sass/mixins.scss",
+		"/Users/soots/Desktop/mjb/src/js/main.js",
+		"/Users/soots/Desktop/AAU/2015 Summer/Web 2A/sookiepark_skills/index.html",
+		"/Users/soots/Desktop/mjb/sass/nav.scss",
+		"/Users/soots/Desktop/mjb/gulpfile.js",
+		"/Users/soots/Desktop/mjb/src/Simple-Grid/index.html",
+		"/Users/soots/Desktop/mjb/src/css/index.css",
+		"/Users/soots/Desktop/mjb/sass/homepage.scss",
+		"/Users/soots/Desktop/mjb/sass/footer.scss",
+		"/Users/soots/Desktop/mjb/sass/about.scss",
+		"/Users/soots/Desktop/mjb/sass/support.scss",
+		"/Users/soots/Desktop/mjb/sass/self-help.scss",
+		"/Users/soots/Desktop/mjb/self-help.php",
+		"/Users/soots/Desktop/mjb/support.php",
+		"/Users/soots/Desktop/mjb/mediation.php",
+		"/Users/soots/Desktop/mjb/about.php",
+		"/Users/soots/Desktop/mjb/footer.php",
+		"/Users/soots/Desktop/mjb/nav.php",
+		"/Users/soots/Desktop/mjb/head.php",
+		"/Users/soots/Desktop/mjb/index.php",
+		"/Users/soots/Desktop/mjb/package.json",
+		"/Users/soots/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/soots/Desktop/mjb/index.html",
+		"/Users/soots/Desktop/mjb/index.css",
+		"/Users/soots/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/soots/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">",
+			"Sans"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
